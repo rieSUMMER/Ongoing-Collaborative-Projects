@@ -17,9 +17,9 @@ Ongoing collaborative projects with prof. Erik Cambria in NTU and prof.  Feng-Ku
 
 ## 3. 模型架构
 
-![Figure 1: Uni-RAG framework主要内容](images/Figure 1.png)
-![Figure 2: Uni-RAG 模型总体架构](images/Figure 2.png)
-![Figure 3: Uni-RAG example模型应用案例](images/Figure 3.png)
+![Figure 1: Uni-RAG framework主要内容](images/Figure1.png)
+![Figure 2: Uni-RAG 模型总体架构](images/Figure2.png)
+![Figure 3: Uni-RAG example模型应用案例](images/Figure3.png)
 
 *图 1 Uni-RAG 的端到端检索–生成流程*
 
